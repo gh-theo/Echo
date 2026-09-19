@@ -2,7 +2,7 @@
 
 # Echo VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/echo) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/echo) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 Echo 提供专线机场订阅，常见叫法包括“Echo VPN”“Echo 梯子”和“Echo 机场”。本文整理注册试用、套餐价格，以及代理节点的晚高峰测速记录；想降低首次尝试成本，可先用 5GB/3 小时试用核对本地网络，再按流量与线路表现选择套餐。
 
